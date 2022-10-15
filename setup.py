@@ -18,7 +18,7 @@ setup(
     },
   install_requires=[
         "scikit-learn==1.0.2",
-        "nltk==3.7",
+        "nltk==3.4.5",
         "wget==3.2"
     ],
   classifiers=[
