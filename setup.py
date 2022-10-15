@@ -17,7 +17,7 @@ setup(
         '': ['data/*'],
     },
   install_requires=[
-        "scikit-learn==1.1.2",
+        "scikit-learn==1.0.2",
         "nltk==3.7",
         "wget==3.2"
     ],
